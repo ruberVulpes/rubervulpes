@@ -5,7 +5,9 @@ Thanks for checking out my GitHub!
 My name is William Fox and I'm a IT Software Engineer at Viasat. 
 
 🐍 I like programming in Python
+
 📧 Feel free to contact me about any of my repositories
+
 😕 Let me know of any good GitHub Pages resources. I'd love to improve mine
 
 <!--
