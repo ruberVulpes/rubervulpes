@@ -4,6 +4,8 @@ Thanks for checking out my GitHub!
 
 My name is William Fox and I'm a IT Software Engineer at Viasat. 
 
+🧗‍♂️ Pronouns: He/Him
+
 🐍 I like programming in Python
 
 📧 Feel free to contact me about any of my repositories
@@ -25,6 +27,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rubervulpes&count_private=true&theme=dark&show_icons=true" />
