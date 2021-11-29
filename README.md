@@ -2,7 +2,7 @@
 
 Thanks for checking out my GitHub!
 
-My name is William Fox and I'm a IT Software Engineer at Viasat. 
+My name is William Fox and I'm starting a new job TBA 12/1.
 
 🧗‍♂️ Pronouns: He/Him
 
