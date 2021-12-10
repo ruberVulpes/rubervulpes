@@ -2,7 +2,7 @@
 
 Thanks for checking out my GitHub!
 
-My name is William Fox and I'm starting a new job TBA 12/1.
+My name is William Fox and I'm starting a SDE at AWS.
 
 🧗‍♂️ Pronouns: He/Him
 
