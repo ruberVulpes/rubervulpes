@@ -2,7 +2,7 @@
 
 Thanks for checking out my GitHub!
 
-My name is William Fox and I'm starting a SDE at AWS.
+My name is William Fox and I'm a SDE at AWS.
 
 🧗‍♂️ Pronouns: He/Him
 
@@ -10,7 +10,7 @@ My name is William Fox and I'm starting a SDE at AWS.
 
 📧 Feel free to contact me about any of my repositories
 
-😕 Let me know of any good GitHub Pages resources. I'd love to improve mine
+🎧 I'm currently working on some ideas I've had to make better Spotify playlists
 
 <!--
 **ruberVulpes/rubervulpes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
